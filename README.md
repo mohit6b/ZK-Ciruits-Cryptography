@@ -1,2 +1,1 @@
-# ZK-Ciruits-Cryptography
-ZK-Ciruits-Cryptography using multiple Libraries
+ZK Circuits using Circom and Zokrates 
